@@ -1,0 +1,10 @@
+export const JOB_ON_CHANGE = 'JOB_ON_CHANGE';
+export const ADD_TO_PICKUP = 'ADD_TO_PICKUP';
+export const ADD_TO_DROPOFF = 'ADD_TO_DROPOFF';
+export const REMOVE_PICKUP = 'REMOVE_PICKUP';
+export const REMOVE_DROPOFF = 'REMOVE_DROPOFF';
+
+
+export const LOAD_LOCATIONS = 'LOAD_LOCATIONS';
+export const LOCATION_ON_CHANGE = 'LOCATION_ON_CHANGE';
+export const ADD_LOCATION = 'ADD_LOCATION';
